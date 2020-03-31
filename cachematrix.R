@@ -1,6 +1,3 @@
-
-
-
 makeCacheMatrix <- function(x = matrix()) {
 
 ## creates special matrix, i.e. list containing functions to 
